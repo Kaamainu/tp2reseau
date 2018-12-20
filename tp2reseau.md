@@ -1,4 +1,5 @@
-								
+Marc bernard
+#  **TP2** - Réseau
 
 
 
@@ -14,5 +15,5 @@
 		 - En graphique (GUI : Graphical User Interface)
 	-Modification des informations 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTkwNTAwOCw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NDY5OTQ1MzQsNDk3ODE4ODEwXX0=
 -->
