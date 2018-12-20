@@ -17,12 +17,18 @@
 
 ## Exploration Locale en solo
 
-### Affic
+### Affichage d’information sur la pile TCP/IP locale
+
+#### En ligne de commande
+
+Pour voir ces informations, il faut ouvrir Windows PowerShell (dans mon cas car je suis sous windows).
+
+Une fois l’interface ouverte, il suffit d’utiliser la commande « ipconfig /all » pour afficher les informations que l’on cherche. On obtient donc :
 	
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzYyMzMyNywtMjkzNDk4NDk0XX0=
+eyJoaXN0b3J5IjpbOTQ0OTEzMDgxXX0=
 -->
