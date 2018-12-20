@@ -14,6 +14,13 @@
 		 - en ligne de commande
 		 - En graphique (GUI : Graphical User Interface)
 	-Modification des informations 
+
+##Exploration Locale en solo
+	
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzQ5ODQ5NF19
+eyJoaXN0b3J5IjpbMjEzMjAzNzU5OSwtMjkzNDk4NDk0XX0=
 -->
