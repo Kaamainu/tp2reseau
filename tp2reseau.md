@@ -15,12 +15,14 @@
 		 - En graphique (GUI : Graphical User Interface)
 	-Modification des informations 
 
-##Exploration Locale en solo
+## Exploration Locale en solo
+
+### Affic
 	
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjAzNzU5OSwtMjkzNDk4NDk0XX0=
+eyJoaXN0b3J5IjpbMTQ5NzYyMzMyNywtMjkzNDk4NDk0XX0=
 -->
