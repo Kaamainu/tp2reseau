@@ -30,14 +30,14 @@ Une fois l’interface ouverte, il suffit d’utiliser la commande « ipconfig /
 | Nom |Intel(R) Wireless-AC 9462 | Realtek PCIe GBE Family Controller |
 | Adresse Mac | 7C-76-35-A9-92-F5 | 30-9C-23-91-CB-53 |
  IP | 10.33.0.31| X |
- Masque | 255.255.252.0 (/22) | X | 
+ Masque sousréseau | <![endif]--> 255.255.252.0 (/22) | X | 
  Adresse Réseau | 10.33.0.0/22 | X|
- Adresse Broadcast | 10.33.3.255/22 | X | 
+ Adresse Broadcast | 10.33.3.254/22 | X | 
  Adresse Passerelle | 10.33.3.253/22 | X
 
-
+Pour l’interface Ethernet, l’adresse MAC et la seule information que l’on peut avoir car la carte Ethernet n’est pas connectée.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg3Njg4ODEsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
