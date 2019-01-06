@@ -34,8 +34,9 @@ Une fois l’interface ouverte, il suffit d’utiliser la commande « ipconfig /
 
 Pour l’interface Ethernet, l’adresse MAC et la seule information que l’on peut avoir car la carte Ethernet n’est pas connectée.
 
-####
+##
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0ND
-kxMzA4MV19
+eyJoaXN0b3J5IjpbLTE4NjgwODg5NzgsLTE1Njk4MjEzNDQsNj
+A1OTU0NjIyLDk0NDkxMzA4MV19
 -->
