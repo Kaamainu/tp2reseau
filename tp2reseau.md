@@ -28,7 +28,7 @@ Une fois l’interface ouverte, il suffit d’utiliser la commande « ipconfig /
 | | Interface WiFi | Interface Ethernet | 
 |--|--|--| 
 | Nom | Intel(R) Wireless-AC 9560 | Killer E2500 Gigabit Ethernet Controller |
-| Adresse Mac | 94-B8-6D-47-04-0F | 30-9C-23-91-CB-53 |
+| Adresse Mac | 7C-76-35-A9-92-F5 | 30-9C-23-91-CB-53 |
  IP | 10.33.2.10/22 | X |
  Masque | 255.255.252.0 (/22) | X | 
  Adresse Réseau | 10.33.0.0/22 | X|
@@ -39,5 +39,5 @@ Une fois l’interface ouverte, il suffit d’utiliser la commande « ipconfig /
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzM2MTY3Myw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbODQ2ODUxMDY2LDk0NDkxMzA4MV19
 -->
