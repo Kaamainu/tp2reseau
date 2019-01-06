@@ -41,9 +41,15 @@ Vous obtenez normalement cela:
 
 
 Sélectionnez ensuite "Ouvrir les paramètres réseau et Internet".
-Vous obtenez  
+La fenêtre ci dessous est à présent ouverte :
+
+
+Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
+
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE3MjA5NTUsLTE1Njk4MjEzNDQsNj
-A1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbMTIwOTk3ODA0LC0xNTY5ODIxMzQ0LDYwNT
+k1NDYyMiw5NDQ5MTMwODFdfQ==
 -->
