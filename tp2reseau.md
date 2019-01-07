@@ -99,12 +99,13 @@ On peut voir que je reste connecté au réseau mais je n'ai pas accès à intern
 
 <img src="duo1.png">
 
-On peut voir que j'ai une nouvelle adresse IP car je suis dans un autre réseau créé par mon camarade.
+J'ai donc changé mon adresse IP pour 145.1.14.1.
+Je m
 
 <img src="duo2.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk3MDQ4MTAsLTIxNDY0ODczMTcsMT
-Q2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MDQ2MDM1OCwtMTM4MTcz
-Mzc3LC04MzU3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEzND
-QsNjA1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbMTMxOTg5NzExLC0xNjM5NzA0ODEwLC0yMT
+Q2NDg3MzE3LDE0Njg0OTEzNDEsMTE2MTQ5MzE1LC0yNjA0NjAz
+NTgsLTEzODE3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYzNzgxLC
+0xNTY5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
 -->
