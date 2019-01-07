@@ -105,9 +105,11 @@ Son adresse IP dans le réseau était 145.1.14.5/24.
 J'effectue maintenant un ping vers l'ordinateur connecté avec le mien.
 
 <img src="duo2.png">
+
+On peut voir que le ping fonctionne, les ordinateurs sont bien connectés en réseau.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU2MTA2NjUsLTE2Mzk3MDQ4MTAsLT
-IxNDY0ODczMTcsMTQ2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MDQ2
-MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3OD
-EsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbMTk1MjU5NjQwNywtMTYzOTcwNDgxMCwtMj
+E0NjQ4NzMxNywxNDY4NDkxMzQxLDExNjE0OTMxNSwtMjYwNDYw
+MzU4LC0xMzgxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MS
+wtMTU2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
