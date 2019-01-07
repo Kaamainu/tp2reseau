@@ -81,8 +81,10 @@ Avec l'outil Nmap j'utilise la commande :
 Donc 192.168.1.0/24 est l'adresse du réseau sur lequel je suis.
   <img src="nmap.png">
 On peut voir sur la capture d'écran mon ordinateur : "Serponne", mon adresse IP est 192.168.1.41, sur le réseau il y a aussi d'autre d'autre hôtes comme par exemple "Laptop-Louis" qui a pour adresse IP : 192.168.1.36
+Mon adresse Gateway actuelle est 192.168.1.254 et je vais la changer par une autre.
+Par exem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODIxMTY5NiwtMjYwNDYwMzU4LC0xMz
-gxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgy
-MTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbNTcxNDE3MzcsLTI2MDQ2MDM1OCwtMTM4MT
+czMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEz
+NDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
