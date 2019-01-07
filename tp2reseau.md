@@ -85,8 +85,11 @@ Mon adresse Gateway actuelle est 192.168.1.254 et je vais la changer par une aut
 Par exemple 192.168.1.4
 Ce qui donne:
 <img src="iplouis.png">
+On essaye ensuite d'effectuer une recherche sur un navigateur:
+<img src="internet.png">
+On peut que je reste connecté au réseau mais je n'ai pas accés
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTQ5MzE1LC0yNjA0NjAzNTgsLTEzOD
-E3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYzNzgxLC0xNTY5ODIx
-MzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbMTc5ODk5NDA4MiwxMTYxNDkzMTUsLTI2MD
+Q2MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3
+ODEsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
