@@ -95,10 +95,10 @@ On essaye ensuite d'effectuer une recherche sur un navigateur:
 
 On peut voir que je reste connecté au réseau mais je n'ai pas accès à internet .
 # Exploration en duo
-## zear
+## z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY0ODczMTcsMTQ2ODQ5MTM0MSwxMT
-YxNDkzMTUsLTI2MDQ2MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3
-MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLD
-k0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbLTE0ODc3MjQ5MywtMjE0NjQ4NzMxNywxND
+Y4NDkxMzQxLDExNjE0OTMxNSwtMjYwNDYwMzU4LC0xMzgxNzMz
+NzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgyMTM0NC
+w2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
