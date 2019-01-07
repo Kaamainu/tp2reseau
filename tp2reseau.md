@@ -57,8 +57,13 @@ Une Gateway est l'adresse IP par laquelle un hôte doit passer pour pouvoir comm
 #### Modification des informations
 
 Pour changer votre IP ;
-Comme montré précédemment il vous faut revenir à cette fenêtre et sélectio 
+Comme montré précédemment il vous faut revenir à cette fenêtre et sélectionnez "Propriétés":
+
+
+Ensuite il faut choisir " Protocole Internet version 4(TCP/IPv4)" puis prenez à nouveau "Propriétés":
+
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2Mjc1OTIyLC0xNTY5ODIxMzQ0LDYwNT
-k1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbLTc0NTk0NTgzNiwtMTU2OTgyMTM0NCw2MD
+U5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
