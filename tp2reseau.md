@@ -74,10 +74,14 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
 ### Modification d'adresse IP avec Nmap
 
+Avec l'outil Nmap j'utilise la commande : 
+> `nmap -sn -PE 192.168.1.0/24`
+
+
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzkzMzM3NCwtMjYwNDYwMzU4LC0xMz
-gxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgy
-MTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbLTEwMDg1Mzk3ODUsLTI2MDQ2MDM1OCwtMT
+M4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4
+MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
