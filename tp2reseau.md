@@ -62,8 +62,14 @@ Comme montré précédemment il vous faut revenir à cette fenêtre et sélectio
 
 Ensuite il faut choisir " Protocole Internet version 4(TCP/IPv4)" puis prenez à nouveau "Propriétés":
 
+
+
+
+
+Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous avez ensuite à entrer l’IP souhaité qui correspondra à la nouvelle adresse d’hôte que vous aurez dans le réseau, par exemple ici on prend la première adresse d’hôte possible dans ce réseau. La dernière étant 10.33.0.252 car celle après est prise par la passerelle par défaut.
+
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTk0NTgzNiwtMTU2OTgyMTM0NCw2MD
-U5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbLTEzOTMzNjM3ODEsLTE1Njk4MjEzNDQsNj
+A1OTU0NjIyLDk0NDkxMzA4MV19
 -->
