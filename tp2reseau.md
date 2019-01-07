@@ -52,8 +52,10 @@ Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
 
 Sélectionnez ensuite votre réseau Wi-fi, dans mon cas ce sera le Wi-fi d'Ynov.
 Vous obtiendrez cela :
+<img src="wifiynov.png">
 
 Choisissez ensuite le bouton "Détails..." pour avoir enfin la fenêtre avec les informations, ce qui donne :
+<img src="">
 
 Une Gateway est l'adresse IP par laquelle un hôte doit passer pour pouvoir communiquer avec un réseau extérieur.
 
@@ -73,6 +75,6 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTMwNjczNywtMTM5MzM2Mzc4MSwtMT
-U2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbNjUwMjk4NTYzLC0xMzkzMzYzNzgxLC0xNT
+Y5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
 -->
