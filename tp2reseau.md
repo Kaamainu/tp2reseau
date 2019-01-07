@@ -37,7 +37,7 @@ Pour l’interface Ethernet, l’adresse MAC et la seule information que l’on 
 #### En graphique (GUI : Graphical User Interface)
 Pour commencer faites un clique droit sur l'icône du Wi-Fi en bas à droite de votre barre tes tâches.
 Vous obtenez normalement cela:
-<img src="wifi.png"
+<img src="wifi.png">
 
 
 
@@ -71,6 +71,6 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTY0Njk4NCwtMTM5MzM2Mzc4MSwtMT
-U2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbLTE5NDA3NDgzOTIsLTEzOTMzNjM3ODEsLT
+E1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
