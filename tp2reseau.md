@@ -100,12 +100,13 @@ On peut voir que je reste connecté au réseau mais je n'ai pas accès à intern
 <img src="duo1.png">
 
 J'ai donc changé mon adresse IP pour 145.1.14.1.
-Je m
+Je me suis ensuite connecté à l'ordinateur de mon camarade à l'aide d'un câble ethernet.
+Son adresse IP dans le réseau était 145.1.14.5
 
 <img src="duo2.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTg5NzExLC0xNjM5NzA0ODEwLC0yMT
-Q2NDg3MzE3LDE0Njg0OTEzNDEsMTE2MTQ5MzE1LC0yNjA0NjAz
-NTgsLTEzODE3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYzNzgxLC
-0xNTY5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjcyNDczNjAsLTE2Mzk3MDQ4MTAsLT
+IxNDY0ODczMTcsMTQ2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MDQ2
+MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3OD
+EsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
