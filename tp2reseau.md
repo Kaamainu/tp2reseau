@@ -55,7 +55,7 @@ Vous obtiendrez cela :
 <img src="wifiynov.png">
 
 Choisissez ensuite le bouton "Détails..." pour avoir enfin la fenêtre avec les informations, ce qui donne :
-<img src="">
+<img src="details.png">
 
 Une Gateway est l'adresse IP par laquelle un hôte doit passer pour pouvoir communiquer avec un réseau extérieur.
 
@@ -63,10 +63,10 @@ Une Gateway est l'adresse IP par laquelle un hôte doit passer pour pouvoir comm
 
 Pour changer votre IP ;
 Comme montré précédemment il vous faut revenir à cette fenêtre et sélectionnez "Propriétés":
-
+<img src="propwifi.png">
 
 Ensuite il faut choisir " Protocole Internet version 4(TCP/IPv4)" puis prenez à nouveau "Propriétés":
-
+<img src="proptcpipv4.png">
 
 
 
@@ -75,6 +75,6 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMjk4NTYzLC0xMzkzMzYzNzgxLC0xNT
-Y5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMT
+U2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
