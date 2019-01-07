@@ -66,13 +66,13 @@ Comme montré précédemment il vous faut revenir à cette fenêtre et sélectio
 <img src="propwifi.png">
 
 Ensuite il faut choisir " Protocole Internet version 4(TCP/IPv4)" puis prenez à nouveau "Propriétés":
-<img src="proptcpipv4.png">
+<img src="proptcipipv4.png">
 
 Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous avez ensuite à entrer l’IP souhaité qui correspondra à la nouvelle adresse d’hôte que vous aurez dans le réseau, par exemple ici on prend la première adresse d’hôte possible dans ce réseau. La dernière étant 10.33.0.252 car celle après est prise par la passerelle par défaut.
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE3MzM3NywtODM1NzkzNzE5LC0xMz
-kzMzYzNzgxLC0xNTY5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMw
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTI2MDQ2MDM1OCwtMTM4MTczMzc3LC04Mz
+U3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEzNDQsNjA1OTU0
+NjIyLDk0NDkxMzA4MV19
 -->
