@@ -80,9 +80,9 @@ Avec l'outil Nmap j'utilise la commande :
 
 Donc 192.168.1.0/24 est l'adresse du réseau sur lequel je suis.
   <img src="nmap.png">
-On peut voir sur la capture d'écran mon ordinateur : "Serponne", mon adresse IP est 
+On peut voir sur la capture d'écran mon ordinateur : "Serponne", mon adresse IP est 192.168.1.41, sur le réseau il y a aussi d'autre 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODY4OTAzLC0yNjA0NjAzNTgsLTEzOD
-E3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYzNzgxLC0xNTY5ODIx
-MzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbMTg0NjA3MzY3MiwtMjYwNDYwMzU4LC0xMz
+gxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgy
+MTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
