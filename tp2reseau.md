@@ -45,8 +45,10 @@ Sélectionnez ensuite "Ouvrir les paramètres réseau et Internet".
 La fenêtre ci dessous est à présent ouverte :
 
 
-Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
+<img src="cliquedroit.png">
 
+Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
+<img src="centre
 
 Sélectionnez ensuite votre réseau Wi-fi, dans mon cas ce sera le Wi-fi d'Ynov.
 Vous obtiendrez cela :
@@ -71,6 +73,6 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA3NDgzOTIsLTEzOTMzNjM3ODEsLT
-E1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbMTA1Mzg4MDI2NywtMTM5MzM2Mzc4MSwtMT
+U2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
