@@ -102,11 +102,11 @@ On peut voir que je reste connecté au réseau mais je n'ai pas accès à intern
 J'ai donc changé mon adresse IP pour 145.1.14.1/24.
 Je me suis ensuite connecté à l'ordinateur de mon camarade à l'aide d'un câble ethernet.
 Son adresse IP dans le réseau était 145.1.14.5/24.
-J'effectue maintenant un ping vers l'ordinateur connecté avec le mien
+J'effectue maintenant un ping vers l'ordinateur connecté avec le mien.
 
 <img src="duo2.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg3NDk0MDMsLTE2Mzk3MDQ4MTAsLT
+eyJoaXN0b3J5IjpbLTE2MjU2MTA2NjUsLTE2Mzk3MDQ4MTAsLT
 IxNDY0ODczMTcsMTQ2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MDQ2
 MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3OD
 EsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
