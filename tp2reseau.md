@@ -79,9 +79,9 @@ Avec l'outil Nmap j'utilise la commande :
     nmap -sn -PE 192.168.1.0/24
 
 Donc 192.168.1.0/24 est l'adresse du réseau sur lequel je suis.
-   
+  <img src="nmap.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzMzNjA1LC0yNjA0NjAzNTgsLTEzOD
-E3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYzNzgxLC0xNTY5ODIx
-MzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbLTE1OTUyMTUwNDgsLTI2MDQ2MDM1OCwtMT
+M4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4
+MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
