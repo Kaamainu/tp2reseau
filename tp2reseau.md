@@ -35,8 +35,9 @@ Une fois l’interface ouverte, il suffit d’utiliser la commande « ipconfig /
 Pour l’interface Ethernet, l’adresse MAC et la seule information que l’on peut avoir car la carte Ethernet n’est pas connectée.
 
 #### En graphique (GUI : Graphical User Interface)
-Pour commencer faites un clique droit sur l'icône du Xi-Fi en bas à droite de votre barre tes tâches.
+Pour commencer faites un clique droit sur l'icône du Wi-Fi en bas à droite de votre barre tes tâches.
 Vous obtenez normalement cela:
+<img src="wifi.png"
 
 
 
@@ -70,6 +71,6 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMzNjM3ODEsLTE1Njk4MjEzNDQsNj
-A1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbMTEyMTY0Njk4NCwtMTM5MzM2Mzc4MSwtMT
+U2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
