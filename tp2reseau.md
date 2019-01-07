@@ -52,8 +52,13 @@ Vous obtiendrez cela :
 
 Choisissez ensuite le bouton "Détails..." pour avoir enfin la fenêtre avec les informations, ce qui donne :
 
-Une Gateway est l'adresse IP par laquelle un hôte tdoit pa
+Une Gateway est l'adresse IP par laquelle un hôte doit passer pour pouvoir communiquer avec un réseau extérieur.
+
+#### Modification des informations
+
+Pour changer votre IP ;
+Comme montré précédemment il vous faut revenir à cette fenêtre et sélectio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTQ2NTU1MywtMTU2OTgyMTM0NCw2MD
-U5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbOTU2Mjc1OTIyLC0xNTY5ODIxMzQ0LDYwNT
+k1NDYyMiw5NDQ5MTMwODFdfQ==
 -->
