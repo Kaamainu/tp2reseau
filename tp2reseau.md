@@ -99,10 +99,12 @@ On peut voir que je reste connecté au réseau mais je n'ai pas accès à intern
 
 <img src="duo1.png">
 
-On peut voir que j'ai une nouvelle adresse IP car je suis dans un autre réseau créé par mon camarade 
+On peut voir que j'ai une nouvelle adresse IP car je suis dans un autre réseau créé par mon camarade.
+
+<img src="duo2.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDY3Njc5MywtMjE0NjQ4NzMxNywxND
-Y4NDkxMzQxLDExNjE0OTMxNSwtMjYwNDYwMzU4LC0xMzgxNzMz
-NzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgyMTM0NC
-w2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbLTE2Mzk3MDQ4MTAsLTIxNDY0ODczMTcsMT
+Q2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MDQ2MDM1OCwtMTM4MTcz
+Mzc3LC04MzU3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEzND
+QsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
