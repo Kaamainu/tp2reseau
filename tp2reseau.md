@@ -50,9 +50,10 @@ Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
 Sélectionnez ensuite votre réseau Wi-fi, dans mon cas ce sera le Wi-fi d'Ynov.
 Vous obtiendrez cela :
 
-Choisissez ensuite l'ongl 
+Choisissez ensuite le bouton "Détails..." pour avoir enfin la fenêtre avec les informations, ce qui donne :
 
+Une Gateway est l'adresse IP par laquelle un hôte tdoit pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDk5Mzc5LC0xNTY5ODIxMzQ0LDYwNT
-k1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbLTg3NTQ2NTU1MywtMTU2OTgyMTM0NCw2MD
+U5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
