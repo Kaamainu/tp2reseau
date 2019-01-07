@@ -95,9 +95,10 @@ On essaye ensuite d'effectuer une recherche sur un navigateur:
 
 On peut voir que je reste connecté au réseau mais je n'ai pas accès à internet .
 # Exploration en duo
-##
+## zear
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MD
-Q2MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3
-ODEsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbLTIxNDY0ODczMTcsMTQ2ODQ5MTM0MSwxMT
+YxNDkzMTUsLTI2MDQ2MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3
+MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLD
+k0NDkxMzA4MV19
 -->
