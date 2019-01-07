@@ -70,9 +70,14 @@ Ensuite il faut choisir " Protocole Internet version 4(TCP/IPv4)" puis prenez à
 
 Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous avez ensuite à entrer l’IP souhaité qui correspondra à la nouvelle adresse d’hôte que vous aurez dans le réseau, par exemple ici on prend la première adresse d’hôte possible dans ce réseau. La dernière étant 10.33.0.252 car celle après est prise par la passerelle par défaut.
 
+# Nmap
+
+### Modification d'adresse IP avec Nmap
+
+
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDQ2MDM1OCwtMTM4MTczMzc3LC04Mz
-U3OTM3MTksLTEzOTMzNjM3ODEsLTE1Njk4MjEzNDQsNjA1OTU0
-NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbMTI2MzkzMzM3NCwtMjYwNDYwMzU4LC0xMz
+gxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgy
+MTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
