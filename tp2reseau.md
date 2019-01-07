@@ -82,9 +82,9 @@ Donc 192.168.1.0/24 est l'adresse du réseau sur lequel je suis.
 
   <img src="nmap.png">
 
-On peut voir sur la capture d'écran mon ordinateur : "Serponne", mon adresse IP est 192.168.1.41, sur le réseau il y a aussi d'autre d'autre hôtes comme par exemple "Laptop-Louis" qui a pour adresse IP : 192.168.1.36
-Mon adresse Gateway actuelle est 192.168.1.254 et je vais la changer par une autre.
-Par exemple 192.168.1.4
+On peut voir sur la capture d'écran mon ordinateur : "Serponne", mon adresse IP est 192.168.1.41, sur le réseau il y a aussi d'autre d'autre hôtes comme par exemple "Laptop-Louis" qui a pour adresse IP : 192.168.1.36/24
+Mon adresse Gateway actuelle est 192.168.1.254/24 et je vais la changer par une autre.
+Par exemple 192.168.1.4/24
 Ce qui donne:
 
 <img src="iplouis.png">
@@ -99,14 +99,15 @@ On peut voir que je reste connecté au réseau mais je n'ai pas accès à intern
 
 <img src="duo1.png">
 
-J'ai donc changé mon adresse IP pour 145.1.14.1/24
+J'ai donc changé mon adresse IP pour 145.1.14.1/24.
 Je me suis ensuite connecté à l'ordinateur de mon camarade à l'aide d'un câble ethernet.
-Son adresse IP dans le réseau était 145.1.14.5/24
+Son adresse IP dans le réseau était 145.1.14.5/24.
+J'effectue maintenant un ping vers l'ordinateur connecté avec le mien
 
 <img src="duo2.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1Njk3NDY4LC0xNjM5NzA0ODEwLC0yMT
-Q2NDg3MzE3LDE0Njg0OTEzNDEsMTE2MTQ5MzE1LC0yNjA0NjAz
-NTgsLTEzODE3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYzNzgxLC
-0xNTY5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTg3NDk0MDMsLTE2Mzk3MDQ4MTAsLT
+IxNDY0ODczMTcsMTQ2ODQ5MTM0MSwxMTYxNDkzMTUsLTI2MDQ2
+MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3OD
+EsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
