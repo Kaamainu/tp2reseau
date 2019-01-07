@@ -88,8 +88,10 @@ Ce qui donne:
 On essaye ensuite d'effectuer une recherche sur un navigateur:
 <img src="internet.png">
 On peut voir que je reste connecté au réseau mais je n'ai pas accès à internet .
+# Exploration en duo
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTMyNzMyMiwxMTYxNDkzMTUsLTI2MD
-Q2MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3
-ODEsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
+eyJoaXN0b3J5IjpbNTc4NjkwMTk3LDExNjE0OTMxNSwtMjYwND
+YwMzU4LC0xMzgxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4
+MSwtMTU2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
