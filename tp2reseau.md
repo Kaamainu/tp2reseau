@@ -47,9 +47,12 @@ La fenêtre ci dessous est à présent ouverte :
 Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
 
 
- 
+Sélectionnez ensuite votre réseau Wi-fi, dans mon cas ce sera le Wi-fi d'Ynov.
+Vous obtiendrez cela :
+
+Choisissez ensuite l'ongl 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTk3ODA0LC0xNTY5ODIxMzQ0LDYwNT
+eyJoaXN0b3J5IjpbMTczNDk5Mzc5LC0xNTY5ODIxMzQ0LDYwNT
 k1NDYyMiw5NDQ5MTMwODFdfQ==
 -->
