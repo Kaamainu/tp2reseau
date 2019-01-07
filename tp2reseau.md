@@ -48,7 +48,7 @@ La fenêtre ci dessous est à présent ouverte :
 <img src="cliquedroit.png">
 
 Sélectionnez "Centre Réseau et partage", cette fenêtre apparaît ensuite:
-<img src="centre
+<img src="centrereseau.png">
 
 Sélectionnez ensuite votre réseau Wi-fi, dans mon cas ce sera le Wi-fi d'Ynov.
 Vous obtiendrez cela :
@@ -73,6 +73,6 @@ Arrivé ici cocher la case «Utiliser l’adresse IP suivante : » puis vous ave
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzg4MDI2NywtMTM5MzM2Mzc4MSwtMT
+eyJoaXN0b3J5IjpbLTY5OTMwNjczNywtMTM5MzM2Mzc4MSwtMT
 U2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
 -->
