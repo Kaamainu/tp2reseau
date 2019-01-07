@@ -79,19 +79,24 @@ Avec l'outil Nmap j'utilise la commande :
     nmap -sn -PE 192.168.1.0/24
 
 Donc 192.168.1.0/24 est l'adresse du réseau sur lequel je suis.
+
   <img src="nmap.png">
 On peut voir sur la capture d'écran mon ordinateur : "Serponne", mon adresse IP est 192.168.1.41, sur le réseau il y a aussi d'autre d'autre hôtes comme par exemple "Laptop-Louis" qui a pour adresse IP : 192.168.1.36
 Mon adresse Gateway actuelle est 192.168.1.254 et je vais la changer par une autre.
 Par exemple 192.168.1.4
 Ce qui donne:
+
 <img src="iplouis.png">
 On essaye ensuite d'effectuer une recherche sur un navigateur:
+
 <img src="internet.png">
+
 On peut voir que je reste connecté au réseau mais je n'ai pas accès à internet .
 # Exploration en duo
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NjkwMTk3LDExNjE0OTMxNSwtMjYwND
-YwMzU4LC0xMzgxNzMzNzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4
-MSwtMTU2OTgyMTM0NCw2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
+eyJoaXN0b3J5IjpbLTEzMTE4MDk2MTUsMTE2MTQ5MzE1LC0yNj
+A0NjAzNTgsLTEzODE3MzM3NywtODM1NzkzNzE5LC0xMzkzMzYz
+NzgxLC0xNTY5ODIxMzQ0LDYwNTk1NDYyMiw5NDQ5MTMwODFdfQ
+==
 -->
