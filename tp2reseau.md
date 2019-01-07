@@ -87,9 +87,9 @@ Ce qui donne:
 <img src="iplouis.png">
 On essaye ensuite d'effectuer une recherche sur un navigateur:
 <img src="internet.png">
-On peut que je reste connecté au réseau mais je n'ai pas accés
+On peut voir que je reste connecté au réseau mais je n'ai pas accès à internet .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODk5NDA4MiwxMTYxNDkzMTUsLTI2MD
+eyJoaXN0b3J5IjpbMTUwOTMyNzMyMiwxMTYxNDkzMTUsLTI2MD
 Q2MDM1OCwtMTM4MTczMzc3LC04MzU3OTM3MTksLTEzOTMzNjM3
 ODEsLTE1Njk4MjEzNDQsNjA1OTU0NjIyLDk0NDkxMzA4MV19
 -->
