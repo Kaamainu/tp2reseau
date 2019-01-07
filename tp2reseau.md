@@ -95,9 +95,12 @@ On essaye ensuite d'effectuer une recherche sur un navigateur:
 
 On peut voir que je reste connecté au réseau mais je n'ai pas accès à internet .
 # Exploration en duo
-## z
+## Création de réseau
+
+<img src="duo1.png">
+On peut voir que j'ai une nouvelle adresse IP car je suis dans un autre réseau
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc3MjQ5MywtMjE0NjQ4NzMxNywxND
+eyJoaXN0b3J5IjpbMTcwMjcwOTMzMSwtMjE0NjQ4NzMxNywxND
 Y4NDkxMzQxLDExNjE0OTMxNSwtMjYwNDYwMzU4LC0xMzgxNzMz
 NzcsLTgzNTc5MzcxOSwtMTM5MzM2Mzc4MSwtMTU2OTgyMTM0NC
 w2MDU5NTQ2MjIsOTQ0OTEzMDgxXX0=
